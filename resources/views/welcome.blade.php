@@ -64,7 +64,7 @@
 <div class="footer_bottom"> 
   <div class="container">  
     <div class="copy">
-        <p>Copyright © 2018 - All Rights Reserved . Design by <a href="#" target="_blank">Ghaith BETTAIB</a> </p>
+        <p>Copyright © 2018 - All Rights Reserved . Design by <a href="https://www.facebook.com/hatem.dag.7127" target="_blank">DAGBOUJ Hatem</a> </p>
     </div>
   </div>
 </div>
